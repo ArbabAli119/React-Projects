@@ -67,6 +67,13 @@ function App() {
             >
               Indigo
             </button>
+             <button
+              onClick={() => setColor("black")}
+              className="outline-none px-7 py-3 rounded-full text-white shadow-2xl"
+              style={{ backgroundColor: "black" }}
+            >
+              black
+            </button>
           </div>
         </div>
       </div>
