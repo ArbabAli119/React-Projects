@@ -16,25 +16,49 @@ function App() {
 </h1>
     <div className="grid grid-cols-4 gap-5">
       <Card
-        username="Code With Arbab"
+        username="Hogwart Letter"
         image={Day1}
         btnText="Click ME"
         aboutMe="hii, I'm Arbab Ali I Am a Software Developer And Currently I am Working With The Project Named As The Tasty Bowl"
       />
       <Card
-        username="The Tasty Bowl"
+        username="Me & Hermoine"
          image={Day2}
         btnText="Visit ME"
         aboutMe=" The tasty Bowl is One Of the Best Food Ordering Website Develop By Mr Arbab Ali In This App We Deliverd All Categries of Food "
       />
        <Card
-        username="The Tasty Bowl"
+        username="Its Flying Time"
          image={Day3}
         btnText="Visit ME"
         aboutMe=" The tasty Bowl is One Of the Best Food Ordering Website Develop By Mr Arbab Ali In This App We Deliverd All Categries of Food "
       />
        <Card
-        username="The Tasty Bowl"
+        username="First Fight"
+         image={Day4}
+        btnText="Visit ME"
+        aboutMe=" The tasty Bowl is One Of the Best Food Ordering Website Develop By Mr Arbab Ali In This App We Deliverd All Categries of Food "
+      />
+      <Card
+        username="Hogwart Letter"
+        image={Day1}
+        btnText="Click ME"
+        aboutMe="hii, I'm Arbab Ali I Am a Software Developer And Currently I am Working With The Project Named As The Tasty Bowl"
+      />
+      <Card
+        username="Me & Hermoine"
+         image={Day2}
+        btnText="Visit ME"
+        aboutMe=" The tasty Bowl is One Of the Best Food Ordering Website Develop By Mr Arbab Ali In This App We Deliverd All Categries of Food "
+      />
+       <Card
+        username="Its Flying Time"
+         image={Day3}
+        btnText="Visit ME"
+        aboutMe=" The tasty Bowl is One Of the Best Food Ordering Website Develop By Mr Arbab Ali In This App We Deliverd All Categries of Food "
+      />
+       <Card
+        username="First Fight"
          image={Day4}
         btnText="Visit ME"
         aboutMe=" The tasty Bowl is One Of the Best Food Ordering Website Develop By Mr Arbab Ali In This App We Deliverd All Categries of Food "
